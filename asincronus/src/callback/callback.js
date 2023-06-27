@@ -12,3 +12,8 @@ console.log(calc(2, 2, sum));
 setTimeout(function () {
     console.log("Hola mundo");
 }, 2000);
+
+function gretting (name) {
+    console.log (`hola ${name}`);
+}
+setTimeout(gretting, 2000, "oscar");
