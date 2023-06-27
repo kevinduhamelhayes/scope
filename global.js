@@ -1,5 +1,5 @@
 //var
-var a; //declaration
+var a; //declaration //undefined
 a = 10; //assignment
 var b = 20; //initialization
 var c = 30, d = 40, e = 50; //multiple declaration

@@ -1,0 +1,14 @@
+{
+  "name": "asincronus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asincronus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt"
+  ],
+  "author": "kevin duhamel hayes kevinduhamelh@gmail.com",
+  "license": "MIT"
+}
